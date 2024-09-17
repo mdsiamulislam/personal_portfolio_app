@@ -1,16 +1,23 @@
-# personal_portfolio_app
+# Personal Portfolio App
 
-A new Flutter project.
+Welcome to my personal portfolio app! This Flutter-based application showcases my projects, skills, and achievements. It provides a detailed view of my work and experience, making it easy for potential employers or collaborators to see what I have to offer.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- **Project Showcase**: Display detailed information about my projects, including descriptions, technologies used, and images.
+- **Skills Overview**: Highlight the skills and technologies I am proficient in.
+- **Interactive UI**: A modern and engaging user interface that showcases my design and development skills.
+- **Responsive Design**: Optimized for both mobile and desktop platforms.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Here are some screenshots of the application:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Home Page
+![Home Page](assets/img/1.png)
+
+### Project Details
+![Project Details](assets/img/2.png)
+
+### Skills & Expertise
+![Skills & Expertise](assets/img/3.png)
