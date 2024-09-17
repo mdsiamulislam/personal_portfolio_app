@@ -14,10 +14,10 @@ Welcome to my personal portfolio app! This Flutter-based application showcases m
 Here are some screenshots of the application:
 
 ### Home Page
-![Home Page](assets/img/1.png)
+<img src="assets/img/1.png" alt="Home Page" width="300"/>
+
+### About Me
+<img src="assets/img/2.png" alt="Project Details" width="300"/>
 
 ### Project Details
-![Project Details](assets/img/2.png)
-
-### Skills & Expertise
-![Skills & Expertise](assets/img/3.png)
+<img src="assets/img/3.png" alt="Skills & Expertise" width="300"/>
